@@ -1,0 +1,11 @@
+{
+  "name": "tunnel-portal-fix-tests",
+  "private": true,
+  "description": "Offline tests for the Tunnel Portal Fix mod: runs the mod's Lua scripts against a mock of the TF3 engine API.",
+  "scripts": {
+    "test": "node runner.js"
+  },
+  "dependencies": {
+    "fengari": "0.1.4"
+  }
+}

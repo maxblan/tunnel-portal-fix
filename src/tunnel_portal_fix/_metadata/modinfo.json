@@ -1,0 +1,15 @@
+{
+    "authors": [
+        {
+            "name": "FalconsSky",
+            "role": "CREATOR"
+        }
+    ],
+    "description": "When two parallel tracks enter a hill a few metres apart, the game builds a single-track portal for the first track and a second, double portal where both tracks are underground, and the two clip into each other.\n\nThis mod waits until you close the track tool, then lines up the later tunnel entry with its neighbour and rebuilds both entries together, so the game merges them into one wide portal.\n\nDetails:\n- Works for parallel tracks up to about 5.2 m apart (the standard track spacing); the game never merges tracks further apart, so those are left as they are.\n- Entries up to 20 m apart are aligned: the later track's tunnel simply starts a few metres earlier.\n- Portals with signals or waypoints right next to them are left untouched.\n- Only reacts to new construction, so it is safe to add to and remove from existing savegames.",
+    "name": "Tunnel Portal Fix",
+    "summary": "Parallel tunnel tracks get one wide portal instead of two portals clipping into each other.",
+    "tags": [
+        "Script Mod"
+    ],
+    "url": "https://mod.io/g/transportfever3/m/tunnel-portal-fix"
+}

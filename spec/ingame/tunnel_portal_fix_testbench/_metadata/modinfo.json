@@ -1,0 +1,15 @@
+{
+    "authors": [
+        {
+            "name": "FalconsSky",
+            "role": "CREATOR"
+        }
+    ],
+    "description": "Development only. Builds scripted tunnel scenarios on game start and logs how the engine groups them. Do not use in real savegames.",
+    "name": "Tunnel Portal Fix - Testbench",
+    "summary": "Automated in-game tests for Tunnel Portal Fix.",
+    "tags": [
+        "Script Mod"
+    ],
+    "url": ""
+}

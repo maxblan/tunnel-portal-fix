@@ -1,0 +1,11 @@
+{
+    "archives": null,
+    "files": [
+        "tunnel_portal_fix/alignment.lua",
+        "tunnel_portal_fix/curve.lua",
+        "tunnel_portal_fix/logger.lua",
+        "tunnel_portal_fix/portal.lua",
+        "tunnel_portal_fix/portal_align.gs.lua",
+        "tunnel_portal_fix/portal_align.script.lua"
+    ]
+}

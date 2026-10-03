@@ -1,0 +1,12 @@
+{
+    "archives": null,
+    "files": [
+        "tunnel_portal_fix_testbench/app_script.lua",
+        "tunnel_portal_fix_testbench/inspection.lua",
+        "tunnel_portal_fix_testbench/scenarios.lua",
+        "tunnel_portal_fix_testbench/site.lua",
+        "tunnel_portal_fix_testbench/testbench.gs.lua",
+        "tunnel_portal_fix_testbench/testbench.script.lua",
+        "tunnel_portal_fix_testbench/track_builder.lua"
+    ]
+}
