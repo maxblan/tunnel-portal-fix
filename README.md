@@ -102,3 +102,7 @@ Mods are published on [mod.io](https://mod.io/g/transportfever3) from inside the
 4. **Publish**. The game validates and cooks the mod again, then uploads it. Tick "Set Public" once it should be visible to everyone.
 
 `_metadata/mod.io_fileid.txt` links the staging mod to the published mod.io entry; the game writes it on the first publish. Keep it in the repo, so `make deploy` preserves it and later publishes update the existing mod instead of creating a new one.
+
+## License
+
+[MIT](LICENSE). Transport Fever 3 is a trademark of Urban Games; this project is not affiliated with Urban Games or Paradox Interactive.
